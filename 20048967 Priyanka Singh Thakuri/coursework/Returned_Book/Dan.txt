@@ -1,0 +1,21 @@
+
+*******************************************
+*                                         *
+*   Welcome To Library Management System  *
+*                                         *
+*******************************************
+
+
+				*********Book Returned System**********
+
+Date: 2021-09-01 09:52:24.232979
+The name of student: Dan
+The list of books borrowed by the user is:
+==========================================================================================================
+BookName 	 Author 		 Price
+==========================================================================================================
+Harry Potter		         JK Rowling		 $40
+________________________________________________________________________________________________________
+the total price for borrowing a book is: $40.0
+total fine for late returning a book is: $7.5
+total amount including fine for returning book is: $47.5
